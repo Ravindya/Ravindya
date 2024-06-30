@@ -9,7 +9,7 @@
   
 - 🌱 I’m currently learning **Development of Web Applications**
 
-- 🧑‍🎓 I’m an Graduate at **Faculty of Engineering, University of Peradeniya**
+- 🧑‍🎓 I’m a Graduate at **Faculty of Engineering, University of Peradeniya**
 
 - 💬 Ask me about **Java**
 
